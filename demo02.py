@@ -23,5 +23,4 @@ if __name__ == '__main__':
     cus.start()
     pro.start()
 
-    cus.join() # 使用join 来保证 守护进程没有挂掉
 
