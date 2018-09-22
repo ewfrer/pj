@@ -22,5 +22,4 @@ if __name__ == '__main__':
     pro = Process(target=product,args=(queue,"骨头"))
     cus.start()
     pro.start()
-
-
+    print("e")
